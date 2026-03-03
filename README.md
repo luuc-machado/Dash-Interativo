@@ -72,9 +72,6 @@ O painel é composto por:
 
 ---
 
-## 🌐 Visualização Online
-
-🔗 (Cole aqui o link do Power BI publicado)
 
 ---
 
